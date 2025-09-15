@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working as a **Freelance Mobile Developer**  
 - 🌱 Learning **Japanese Language & Advanced Flutter**  
-- 👨‍💻 Explore my portfolio at [tz-thantzin.github.io/portfolio](https://tz-thantzin.github.io/portfolio/)  
+- 👨‍💻 Explore my portfolio at [devthantzin.com](https://devthantzin.com/)  
 - 💬 Ask me about **Flutter, Dart, Firebase, iOS (Swift), MVVM Architecture**  
 - 📫 Reach me at **dev.thantzin@gmail.com**  
 - 🌏 Interested in opportunities in **Japan & FinTech industry**  

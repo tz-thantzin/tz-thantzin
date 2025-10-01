@@ -1,65 +1,74 @@
 <h1 align="center">Hey 👋, I'm Thant Zin</h1>
-<h3 align="center">A passionate Flutter Developer & Mobile App Enthusiast</h3>
+<h3 align="center">A Passionate Flutter Developer & Mobile App Enthusiast 🚀</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tz-thantzin&label=Profile%20Views&color=blue&style=flat" alt="tz-thantzin" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tz-thantzin&label=Profile%20Views&color=blue&style=flat" alt="tz-thantzin" />  
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tz-thantzin&theme=algolia" alt="tz-thantzin" />
-  </a> 
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thant-zin-9a855524/)](https://www.linkedin.com/in/thant-zin-9a855524/) &nbsp;
+  [![Followers](https://img.shields.io/github/followers/tz-thantzin?style=for-the-badge&logo=Github&label=Followers&labelColor=FFB001&&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
+  [![Stars](https://img.shields.io/github/stars/tz-thantzin?style=for-the-badge&logo=Github&label=Stars&labelColor=FFB001&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
 </p>
 
-- 🔭 I’m currently working as a **Freelance Mobile Developer**  
-- 🌱 Learning **Japanese Language & Advanced Flutter**  
-- 👨‍💻 Explore my portfolio at [devthantzin.com](https://devthantzin.com/)  
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently working as a **Freelance Mobile Developer**  
+- 🌱 Learning **Advanced Flutter & Swift UI**  
+- 👨‍💻 Explore my portfolio → [devthantzin.com](https://devthantzin.com/)  
 - 💬 Ask me about **Flutter, Dart, Firebase, iOS (Swift), MVVM Architecture**  
 - 📫 Reach me at **dev.thantzin@gmail.com**  
-- 🌏 Interested in opportunities in **Japan & FinTech industry**  
+- 🌏 Looking for opportunities in **Japan & FinTech industry**  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/thant-zin-9a855524/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://github.com/tz-thantzin" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
-</a>
+### 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/thant-zin-9a855524/" target="_blank">
+    <img src="https://img.shields.io/badge/-Thant%20Zin-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/tz-thantzin" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" />
+  </a>
+  <a href="mailto:dev.thantzin@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+### 🛠 Languages & Tools
 <p align="left"> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> 
   </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
   </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
   </a> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> 
   </a> 
   <a href="https://figma.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a> 
 </p>
 
 ---
 
+### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tz-thantzin&show_icons=true&locale=en&layout=compact" alt="tz-thantzin" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tz-thantzin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tz-thantzin&show_icons=true&locale=en" alt="tz-thantzin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tz-thantzin&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tz-thantzin&theme=dark" alt="tz-thantzin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tz-thantzin&theme=tokyonight" alt="GitHub Streak" /></p>
+
+---

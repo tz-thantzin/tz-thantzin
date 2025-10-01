@@ -1,3 +1,7 @@
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thant-zin-9a855524/)](https://www.linkedin.com/in/thant-zin-9a855524/) &nbsp;
+[![Followers](https://img.shields.io/github/followers/tz-thantzin?style=for-the-badge&logo=Github&label=Followers&labelColor=FFB001&&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
+[![Stars](https://img.shields.io/github/stars/tz-thantzin?style=for-the-badge&logo=Github&label=stars&labelColor=FFB001&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
+
 <h1 align="center">Hey 👋, I'm Thant Zin</h1>
 <h3 align="center">A Passionate Flutter Developer & Mobile App Enthusiast 🚀</h3>
 
@@ -5,22 +9,16 @@
   <img src="https://komarev.com/ghpvc/?username=tz-thantzin&label=Profile%20Views&color=blue&style=flat" alt="tz-thantzin" />  
 </p>
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thant-zin-9a855524/)](https://www.linkedin.com/in/thant-zin-9a855524/) &nbsp;
-  [![Followers](https://img.shields.io/github/followers/tz-thantzin?style=for-the-badge&logo=Github&label=Followers&labelColor=FFB001&&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
-  [![Stars](https://img.shields.io/github/stars/tz-thantzin?style=for-the-badge&logo=Github&label=Stars&labelColor=FFB001&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
-</p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🔭 Currently working as a **Freelance Mobile Developer**  
-- 🌱 Learning **Advanced Flutter & Swift UI**  
+- 🚀 Passionate about building **scalable and high-performance mobile applications**  
 - 👨‍💻 Explore my portfolio → [devthantzin.com](https://devthantzin.com/)  
-- 💬 Ask me about **Flutter, Dart, Firebase, iOS (Swift), MVVM Architecture**  
+- 💬 Skilled in **Flutter, Dart, Firebase, iOS (Swift), and MVVM Architecture**  
 - 📫 Reach me at **dev.thantzin@gmail.com**  
-- 🌏 Looking for opportunities in **Japan & FinTech industry**  
-
+- 🌏 Interested in opportunities in **FinTech and innovative mobile app solutions**
 ---
 
 ### 🌐 Connect with Me
@@ -72,3 +70,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tz-thantzin&theme=tokyonight" alt="GitHub Streak" /></p>
 
 ---
+

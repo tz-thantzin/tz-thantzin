@@ -2,8 +2,7 @@
 [![Followers](https://img.shields.io/github/followers/tz-thantzin?style=for-the-badge&logo=Github&label=Followers&labelColor=FFB001&&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
 [![Stars](https://img.shields.io/github/stars/tz-thantzin?style=for-the-badge&logo=Github&label=stars&labelColor=FFB001&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
 
-<h1 align="center">Hey 👋, I'm Thant Zin</h1>
-<h3 align="center">A Passionate Flutter Developer & Mobile App Enthusiast 🚀</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Thant+Zin;+Senior+Mobile+Engineer+with+almost+12+years+hands-on+experience;+Specialized+in+Flutter+and+Mobile+App+Development;+Always+learning+and+improving+my+skills)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tz-thantzin&label=Profile%20Views&color=blue&style=flat" alt="tz-thantzin" />  

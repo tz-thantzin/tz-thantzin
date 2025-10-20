@@ -2,11 +2,11 @@
 [![Followers](https://img.shields.io/github/followers/tz-thantzin?style=for-the-badge&logo=Github&label=Followers&labelColor=FFB001&&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
 [![Stars](https://img.shields.io/github/stars/tz-thantzin?style=for-the-badge&logo=Github&label=stars&labelColor=FFB001&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Thant+Zin;+Senior+Mobile+Engineer+with+almost+12+years+experience;+Specialized+in+Flutter+and+Mobile+App+Development;+Always+learning+and+improving+my+skills)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tz-thantzin&label=Profile%20Views&color=blue&style=flat" alt="tz-thantzin" />  
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Thant+Zin;+Senior+Mobile+Engineer+with+almost+12+years+experience;+Specialized+in+Flutter+and+Mobile+App+Development;+Always+learning+and+improving+my+skills)](https://git.io/typing-svg)
 
 
 ---
@@ -56,6 +56,18 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a> 
 </p>
+
+---
+
+<div align="center">
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-light.svg" />
+    <img alt="github-snake" src="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 

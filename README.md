@@ -2,9 +2,8 @@
 [![Followers](https://img.shields.io/github/followers/tz-thantzin?style=for-the-badge&logo=Github&label=Followers&labelColor=FFB001&&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
 [![Stars](https://img.shields.io/github/stars/tz-thantzin?style=for-the-badge&logo=Github&label=stars&labelColor=FFB001&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tz-thantzin&label=Profile%20Views&color=blue&style=flat" alt="tz-thantzin" />  
-</p>
+<img src="https://komarev.com/ghpvc/?username=tz-thantzin&label=Profile%20Views&color=blue&style=flat" alt="tz-thantzin" />  
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Thant+Zin;+Senior+Mobile+Engineer+with+almost+12+years+experience;+Specialized+in+Flutter+and+Mobile+App+Development;+Always+learning+and+improving+my+skills)](https://git.io/typing-svg)
 
@@ -55,6 +54,24 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a> 
+</p>
+
+---
+
+### ☕ Checkout My Work & Support
+
+<p align="center">
+  <a href="https://devthantzin.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-devthantzin.com-blue?style=for-the-badge" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@dev.thantzin" target="_blank">
+    <img src="https://img.shields.io/badge/📝%20Read%20My%20Blog-Medium-black?style=for-the-badge&logo=medium" alt="Medium Blog" />
+  </a>
+  &nbsp;
+  <a href="https://buymeacoffee.com/devthantziq" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
 </p>
 
 ---

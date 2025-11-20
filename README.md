@@ -14,7 +14,6 @@
 - 👨‍💻 Explore my portfolio → [devthantzin.com](https://devthantzin.com/)  
 - 💬 Skilled in **Flutter, Dart, Firebase, iOS (Swift), and MVVM Architecture**  
 - 📫 Reach me at **dev.thantzin@gmail.com**  
-- 🌏 Interested in opportunities in **FinTech and innovative mobile app solutions**
 ---
 
 ### 🌐 Connect with Me
@@ -63,7 +62,7 @@
     <img src="https://img.shields.io/badge/🌐%20Portfolio-devthantzin.com-blue?style=for-the-badge" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://medium.com/@dev.thantzin" target="_blank">
+  <a href="https://devthantzin.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/📝%20Read%20My%20Blog-Medium-black?style=for-the-badge&logo=medium" alt="Medium Blog" />
   </a>
   &nbsp;

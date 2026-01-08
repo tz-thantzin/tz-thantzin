@@ -85,14 +85,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tz-thantzin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tz-thantzin&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tz-thantzin&theme=tokyonight" alt="GitHub Streak" /></p>
-
----
-

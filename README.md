@@ -1,87 +1,120 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thant-zin-9a855524/)](https://www.linkedin.com/in/thant-zin-9a855524/) &nbsp;
-[![Followers](https://img.shields.io/github/followers/tz-thantzin?style=for-the-badge&logo=Github&label=Followers&labelColor=FFB001&&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
-[![Stars](https://img.shields.io/github/stars/tz-thantzin?style=for-the-badge&logo=Github&label=stars&labelColor=FFB001&color=FFB001)](https://github.com/tz-thantzin) &nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=tz-thantzin&label=Profile%20Views&color=blue&style=flat" alt="tz-thantzin" />  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Thant+Zin;+Senior+Mobile+Engineer;+Specialized+in+Flutter+and+Mobile+App+Development)](https://git.io/typing-svg)
-
----
-
-### 👨‍💻 About Me
-- 🔭 Currently working as a **Freelance Mobile Developer**  
-- 🚀 Passionate about building **scalable and high-performance mobile applications**  
-- 👨‍💻 Explore my portfolio → [devthantzin.com](https://devthantzin.com/)  
-- 💬 Skilled in **Flutter, Dart, Firebase, iOS (Swift), and MVVM Architecture**  
-- 📫 Reach me at **dev.thantzin@gmail.com**  
----
-
-### 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/thant-zin-9a855524/" target="_blank">
-    <img src="https://img.shields.io/badge/-Thant%20Zin-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/tz-thantzin" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" />
-  </a>
-  <a href="mailto:dev.thantzin@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠 Languages & Tools
-<p align="left"> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> 
-  </a> 
-  <a href="https://figma.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a> 
-</p>
-
----
-
-### ☕ Checkout My Work & Support
+<h1 align="center">Thant Zin</h1>
 
 <p align="center">
-  <a href="https://devthantzin.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-devthantzin.com-blue?style=for-the-badge" alt="Portfolio" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Mobile+Application+Developer;Senior+Flutter+Engineer+%7C+12%2B+Years;Fintech+%7C+Aviation+%7C+Healthcare+%7C+Education;Flutter+%7C+Kotlin+%7C+Swift+%7C+AWS+%7C+Firebase;Open+to+Freelance+Opportunities">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Mobile+Application+Developer;Senior+Flutter+Engineer+%7C+12%2B+Years;Fintech+%7C+Aviation+%7C+Healthcare+%7C+Education;Flutter+%7C+Kotlin+%7C+Swift+%7C+AWS+%7C+Firebase;Open+to+Freelance+Opportunities" alt="Typing SVG" />
   </a>
-  &nbsp;
-  <a href="https://devthantzin.medium.com" target="_blank">
-    <img src="https://img.shields.io/badge/📝%20Read%20My%20Blog-Medium-black?style=for-the-badge&logo=medium" alt="Medium Blog" />
+</p>
+
+<p align="center">
+  <a href="https://thantzin.dev">
+    <img src="https://img.shields.io/badge/Portfolio-thantzin.dev-58A6FF?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://buymeacoffee.com/devthantziq" target="_blank">
-    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+  <a href="https://www.linkedin.com/in/thant-zin-9a855524/">
+    <img src="https://img.shields.io/badge/LinkedIn-Thant%20Zin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://devthantzin.medium.com">
+    <img src="https://img.shields.io/badge/Medium-devthantzin-12100E?style=flat-square&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:dev.thantzin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dev.thantzin@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tz-thantzin&label=Profile%20Views&color=58A6FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/tz-thantzin?style=flat-square&logo=github&label=Followers&color=58A6FF" />
+  <img src="https://img.shields.io/github/stars/tz-thantzin?style=flat-square&logo=github&label=Stars&color=58A6FF" />
+  <img src="https://img.shields.io/badge/Based_in-Bangkok,_Thailand-58A6FF?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-<div align="center">
+## About
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-light.svg" />
-    <img alt="github-snake" src="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+Senior Mobile Application Developer and Flutter Engineer with **12+ years** of experience architecting and delivering scalable, high-performance applications across **fintech, aviation, healthcare, and education**.
+
+Proven track record leading cross-functional teams, owning full product lifecycles, and shipping production-grade apps to the **App Store and Google Play**. Deep expertise in **Flutter, Kotlin, and Swift**, combined with Clean Architecture, modern state management, CI/CD, and cloud-native backends on **Firebase and AWS**. Trusted to translate complex business requirements into elegant, user-centric mobile products and to mentor engineers toward consistent, high-quality delivery.
+
+> **Currently open to freelance engagements** — cross-platform mobile development and Flutter architecture.
 
 ---
 
+## Tech Stack
+
+**Mobile & Languages**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & State Management**
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![BLoC](https://img.shields.io/badge/BLoC%2FCubit-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00BFFF?style=for-the-badge&logo=dart&logoColor=white)
+
+**Cloud & Backend**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## Core Skills
+
+| Area | Details |
+|---|---|
+| **Mobile** | Flutter (cross-platform), Native iOS (Swift / SwiftUI), Native Android (Kotlin / Java) |
+| **Architecture** | Clean Architecture, MVVM, MVC, SOLID principles, modular app structure |
+| **State Management** | BLoC, Cubit, Provider, Riverpod |
+| **Backend & Cloud** | Firebase (Auth, Firestore, FCM), AWS (Amplify, AppSync, Lambda, Cognito, S3, DynamoDB) |
+| **Databases** | Firestore, DynamoDB, SQFlite, Hive, SharedPreferences, FlutterSecureStorage |
+| **DevOps & Release** | Fastlane CI/CD, App Store Connect, Google Play Console, TestFlight, Firebase App Distribution |
+| **Testing** | Unit Testing, Integration Testing, Debugging, Performance Profiling |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tz-thantzin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Thant Zin's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tz-thantzin&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tz-thantzin&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## Writing
+
+I occasionally write about mobile development, Flutter, and engineering practices on Medium.
+
+[devthantzin.medium.com →](https://devthantzin.medium.com)
+
+---
+
+## Languages
+
+`English — Professional Working Proficiency` &nbsp;·&nbsp; `Japanese — Conversational` &nbsp;·&nbsp; `Burmese — Native`
+
+---
+
+<p align="center">
+  <a href="https://thantzin.dev">Website</a> ·
+  <a href="https://www.linkedin.com/in/thant-zin-9a855524/">LinkedIn</a> ·
+  <a href="mailto:dev.thantzin@gmail.com">Contact</a>
+</p>

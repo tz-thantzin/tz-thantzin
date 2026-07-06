@@ -99,14 +99,6 @@ Proven track record leading cross-functional teams, owning full product lifecycl
 
 ---
 
-## Writing
-
-I occasionally write about mobile development, Flutter, and engineering practices on Medium.
-
-[devthantzin.medium.com →](https://devthantzin.medium.com)
-
----
-
 ## Languages
 
 `English — Professional Working Proficiency` &nbsp;·&nbsp; `Japanese — Conversational` &nbsp;·&nbsp; `Burmese — Native`
